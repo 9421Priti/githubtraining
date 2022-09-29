@@ -3,3 +3,5 @@ numbers
 emoji
 type
 color
+dark mode
+videp call
